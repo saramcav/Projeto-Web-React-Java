@@ -1,0 +1,7 @@
+Aqui estão os 5 componentes não utilizados no curso do bootstrap e onde cada um deles foi aplicado:
+
+list-group: página nossas_lojas.html
+badge: página nossas_lojas.html
+offcanvas: página nossas_lojas.html
+tabs: página faq.html
+toast: página página barraca_compra.html

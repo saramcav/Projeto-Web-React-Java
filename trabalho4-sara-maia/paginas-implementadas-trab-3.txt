@@ -1,0 +1,18 @@
+páginas implementadas usando react, de acordo com o trabalho 1:
+
+1 - home
+2 - faq
+3 - apresentacao barracas (lista barracas de determinado formato)
+4 - detalhamento de barraca (página de compra ou venda a depender da "modalidade" a qual a barraca pertence)
+5 - nossas lojas
+6 - perfil 
+
+a página de erro também foi adicionada e será melhorada quando houver comunicação com um bd.
+
+os objetos que estão em src/data/objetos.ts simulam o BD. 
+a existência de uma tabela de usuários (que são autores de comentários, por exemplo) foi abstraída nessas simulações.
+
+as seguintes bibliotecas foram usadas:
+
+1 - flatpicker (capturar período de aluguel em uma interface de calendário)
+2 - bootstrap-icons (biblioteca de ícones)
