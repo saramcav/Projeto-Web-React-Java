@@ -33,30 +33,30 @@ O projeto consiste em uma **loja online** para aluguel e venda de barracas.
 ## Imagens da interface
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/home1.png" style="width: 5%;" />
-  <img src="imagens_readme/home2.png" style="width: 5%;" />
+  <img src="imagens_readme/home1.png" style="width: 50%;" />
+  <img src="imagens_readme/home2.png" style="width: 50%;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/barraca-cliente.png" style="width: 5%;" />
-  <img src="imagens_readme/detalhes-barraca.png" style="width: 5%;" />
+  <img src="imagens_readme/barraca-cliente.png" style="width: 50%;" />
+  <img src="imagens_readme/detalhes-barraca.png" style="width: 50%;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/barracas-formato.png" style="width: 5%;" />
-  <img src="imagens_readme/carrinho.png" style="width: 5%;" />
+  <img src="imagens_readme/barracas-formato.png" style="width: 50%;" />
+  <img src="imagens_readme/carrinho.png" style="width: 50%;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/faq.png" style="width: 5%;" />
-  <img src="imagens_readme/nossas-lojas.png" style="width: 5%;" />
+  <img src="imagens_readme/faq.png" style="width: 50%;" />
+  <img src="imagens_readme/nossas-lojas.png" style="width: 50%;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/lista-barracas.png" style="width: 5%;" />
-  <img src="imagens_readme/edicao-remocao-barraca.png" style="width: 5%;" />
+  <img src="imagens_readme/lista-barracas.png" style="width: 50%;" />
+  <img src="imagens_readme/edicao-remocao-barraca.png" style="width: 50%;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="imagens_readme/cadastro-barraca.png" style="width: 5%;" />
+  <img src="imagens_readme/cadastro-barraca.png" style="width: 50%;" />
 </div>
